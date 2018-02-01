@@ -1,0 +1,293 @@
+Mon 29 Jan 2018 14:39:45 INFO task_daikai.py 60 13480 268 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 14:39:45 INFO task_daikai.py 71 13480 268 未传代理参数，启用本机IP
+Mon 29 Jan 2018 14:39:46 INFO task_daikai.py 97 13480 268 customerid:9，获取验证码为：None
+Mon 29 Jan 2018 14:39:46 INFO task_daikai.py 60 13480 268 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 14:39:46 INFO task_daikai.py 71 13480 268 未传代理参数，启用本机IP
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 97 13480 268 customerid:9，获取验证码为：[{"x":271,"y":62},{"x":220,"y":60},{"x":19,"y":97}]
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 101 13480 268 customerid:9，验证验证码[{"x":271,"y":62},{"x":220,"y":60},{"x":19,"y":97}]
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 104 13480 268 customerid:9，转换tag
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 106 13480 268 customerid:9，转换tag完成
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 107 13480 268 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":271,\"y\":62},{\"x\":220,\"y\":60},{\"x\":19,\"y\":97}]",2018-01-29 14:39:48
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 112 13480 268 customerid:9,成功post数据
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 119 13480 268 customerid:9pass
+Mon 29 Jan 2018 14:39:48 INFO task_daikai.py 287 13480 268 customerid:9获取cookies
+Mon 29 Jan 2018 14:40:17 INFO task_daikai.py 347 13480 268 customerid:9SFZ出错
+Mon 29 Jan 2018 14:40:17 WARNING task_daikai.py 348 13480 268 Message: {"errorMessage":"SyntaxError: DOM Exception 12","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"105","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:27479","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"3525e260-04bf-11e8-bc16-23220e21cdaa\", \"using\": \"css selector\", \"value\": \"#mini-20$0$5 a\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/3525e260-04bf-11e8-bc16-23220e21cdaa/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 14:40:17 INFO task_daikai.py 349 13480 268 SFZ查询失败
+Mon 29 Jan 2018 14:40:19 ERROR task_daikai.py 368 13480 268 (515, b"Cannot insert the value NULL into column 'valuetype', table '@hierarchy'; column does not allow nulls. INSERT fails.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+Mon 29 Jan 2018 14:45:32 INFO task_daikai.py 60 14780 13720 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 14:45:32 INFO task_daikai.py 71 14780 13720 未传代理参数，启用本机IP
+Mon 29 Jan 2018 14:45:33 INFO task_daikai.py 97 14780 13720 customerid:9，获取验证码为：None
+Mon 29 Jan 2018 14:45:33 INFO task_daikai.py 60 14780 13720 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 14:45:33 INFO task_daikai.py 71 14780 13720 未传代理参数，启用本机IP
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 97 14780 13720 customerid:9，获取验证码为：[{"x":20,"y":55},{"x":217,"y":98},{"x":117,"y":58}]
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 101 14780 13720 customerid:9，验证验证码[{"x":20,"y":55},{"x":217,"y":98},{"x":117,"y":58}]
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 104 14780 13720 customerid:9，转换tag
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 106 14780 13720 customerid:9，转换tag完成
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 107 14780 13720 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":20,\"y\":55},{\"x\":217,\"y\":98},{\"x\":117,\"y\":58}]",2018-01-29 14:45:35
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 112 14780 13720 customerid:9,成功post数据
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 119 14780 13720 customerid:9pass
+Mon 29 Jan 2018 14:45:35 INFO task_daikai.py 287 14780 13720 customerid:9获取cookies
+Mon 29 Jan 2018 14:46:05 INFO task_daikai.py 60 9648 14868 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 14:46:05 INFO task_daikai.py 71 9648 14868 未传代理参数，启用本机IP
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 97 9648 14868 customerid:9，获取验证码为：[{"x":71,"y":82},{"x":17,"y":50},{"x":220,"y":78}]
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 101 9648 14868 customerid:9，验证验证码[{"x":71,"y":82},{"x":17,"y":50},{"x":220,"y":78}]
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 104 9648 14868 customerid:9，转换tag
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 106 9648 14868 customerid:9，转换tag完成
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 107 9648 14868 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":71,\"y\":82},{\"x\":17,\"y\":50},{\"x\":220,\"y\":78}]",2018-01-29 14:46:07
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 112 9648 14868 customerid:9,成功post数据
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 119 9648 14868 customerid:9pass
+Mon 29 Jan 2018 14:46:07 INFO task_daikai.py 287 9648 14868 customerid:9获取cookies
+Mon 29 Jan 2018 15:04:36 INFO task_daikai.py 347 9648 14868 customerid:9SFZ出错
+Mon 29 Jan 2018 15:04:37 WARNING task_daikai.py 348 9648 14868 Message: {"errorMessage":"SyntaxError: DOM Exception 12","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"103","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:28368","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"16f99f10-04c0-11e8-bb08-d92b7c5d6b64\", \"using\": \"css selector\", \"value\": \"#mini-20$0$5\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/16f99f10-04c0-11e8-bb08-d92b7c5d6b64/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 15:04:37 INFO task_daikai.py 349 9648 14868 SFZ查询失败
+Mon 29 Jan 2018 15:22:56 INFO task_daikai.py 60 15952 6556 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:22:56 INFO task_daikai.py 71 15952 6556 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 97 15952 6556 customerid:9，获取验证码为：[{"x":67,"y":96},{"x":21,"y":80},{"x":120,"y":42}]
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 101 15952 6556 customerid:9，验证验证码[{"x":67,"y":96},{"x":21,"y":80},{"x":120,"y":42}]
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 104 15952 6556 customerid:9，转换tag
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 106 15952 6556 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 107 15952 6556 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":67,\"y\":96},{\"x\":21,\"y\":80},{\"x\":120,\"y\":42}]",2018-01-29 15:22:57
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 112 15952 6556 customerid:9,成功post数据
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 119 15952 6556 customerid:9pass
+Mon 29 Jan 2018 15:22:57 INFO task_daikai.py 287 15952 6556 customerid:9获取cookies
+Mon 29 Jan 2018 15:23:37 INFO task_daikai.py 347 15952 6556 customerid:9SFZ出错
+Mon 29 Jan 2018 15:23:37 WARNING task_daikai.py 348 15952 6556 Message: {"errorMessage":"Unable to find element with xpath '//*[@id=\"#mini-20$0$5\"]'","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"109","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:35400","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"value\": \"//*[@id=\\\"#mini-20$0$5\\\"]\", \"using\": \"xpath\", \"sessionId\": \"3c7a8150-04c5-11e8-8109-2b40122d9f59\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/3c7a8150-04c5-11e8-8109-2b40122d9f59/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 15:23:37 INFO task_daikai.py 349 15952 6556 SFZ查询失败
+Mon 29 Jan 2018 15:24:35 INFO task_daikai.py 60 16004 13612 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:24:35 INFO task_daikai.py 71 16004 13612 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 97 16004 13612 customerid:9，获取验证码为：[{"x":170,"y":93},{"x":219,"y":75},{"x":272,"y":86}]
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 101 16004 13612 customerid:9，验证验证码[{"x":170,"y":93},{"x":219,"y":75},{"x":272,"y":86}]
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 104 16004 13612 customerid:9，转换tag
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 106 16004 13612 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 107 16004 13612 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":170,\"y\":93},{\"x\":219,\"y\":75},{\"x\":272,\"y\":86}]",2018-01-29 15:24:38
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 112 16004 13612 customerid:9,成功post数据
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 119 16004 13612 customerid:9pass
+Mon 29 Jan 2018 15:24:38 INFO task_daikai.py 288 16004 13612 customerid:9获取cookies
+Mon 29 Jan 2018 15:25:22 INFO task_daikai.py 60 11412 14848 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:25:22 INFO task_daikai.py 71 11412 14848 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 97 11412 14848 customerid:9，获取验证码为：[{"x":266,"y":30},{"x":172,"y":59},{"x":222,"y":64}]
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 101 11412 14848 customerid:9，验证验证码[{"x":266,"y":30},{"x":172,"y":59},{"x":222,"y":64}]
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 104 11412 14848 customerid:9，转换tag
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 106 11412 14848 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 107 11412 14848 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":266,\"y\":30},{\"x\":172,\"y\":59},{\"x\":222,\"y\":64}]",2018-01-29 15:25:24
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 112 11412 14848 customerid:9,成功post数据
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 119 11412 14848 customerid:9pass
+Mon 29 Jan 2018 15:25:24 INFO task_daikai.py 288 11412 14848 customerid:9获取cookies
+Mon 29 Jan 2018 15:26:06 INFO task_daikai.py 348 11412 14848 customerid:9SFZ出错
+Mon 29 Jan 2018 15:26:07 WARNING task_daikai.py 349 11412 14848 Message: {"errorMessage":"Unable to find element with css selector '.mini-panel iframe'","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"109","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:35921","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"value\": \".mini-panel iframe\", \"sessionId\": \"93fa8f60-04c5-11e8-9cf8-672002a07461\", \"using\": \"css selector\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/93fa8f60-04c5-11e8-9cf8-672002a07461/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 15:26:25 INFO task_daikai.py 60 12064 13796 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:26:25 INFO task_daikai.py 71 12064 13796 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 97 12064 13796 customerid:9，获取验证码为：[{"x":218,"y":103},{"x":69,"y":63},{"x":118,"y":105}]
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 101 12064 13796 customerid:9，验证验证码[{"x":218,"y":103},{"x":69,"y":63},{"x":118,"y":105}]
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 104 12064 13796 customerid:9，转换tag
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 106 12064 13796 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 107 12064 13796 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":218,\"y\":103},{\"x\":69,\"y\":63},{\"x\":118,\"y\":105}]",2018-01-29 15:26:27
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 112 12064 13796 customerid:9,成功post数据
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 119 12064 13796 customerid:9pass
+Mon 29 Jan 2018 15:26:27 INFO task_daikai.py 288 12064 13796 customerid:9获取cookies
+Mon 29 Jan 2018 15:30:18 INFO task_daikai.py 60 2424 12260 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:30:18 INFO task_daikai.py 71 2424 12260 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 97 2424 12260 customerid:9，获取验证码为：[{"x":223,"y":100},{"x":275,"y":57},{"x":170,"y":54}]
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 101 2424 12260 customerid:9，验证验证码[{"x":223,"y":100},{"x":275,"y":57},{"x":170,"y":54}]
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 104 2424 12260 customerid:9，转换tag
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 106 2424 12260 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 107 2424 12260 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":223,\"y\":100},{\"x\":275,\"y\":57},{\"x\":170,\"y\":54}]",2018-01-29 15:30:19
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 112 2424 12260 customerid:9,成功post数据
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 119 2424 12260 customerid:9pass
+Mon 29 Jan 2018 15:30:19 INFO task_daikai.py 290 2424 12260 customerid:9获取cookies
+Mon 29 Jan 2018 15:38:47 INFO task_daikai.py 60 7748 16096 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:38:47 INFO task_daikai.py 71 7748 16096 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 97 7748 16096 customerid:9，获取验证码为：[{"x":171,"y":83},{"x":19,"y":65},{"x":271,"y":63}]
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 101 7748 16096 customerid:9，验证验证码[{"x":171,"y":83},{"x":19,"y":65},{"x":271,"y":63}]
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 104 7748 16096 customerid:9，转换tag
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 106 7748 16096 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 107 7748 16096 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":171,\"y\":83},{\"x\":19,\"y\":65},{\"x\":271,\"y\":63}]",2018-01-29 15:38:51
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 112 7748 16096 customerid:9,成功post数据
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 119 7748 16096 customerid:9pass
+Mon 29 Jan 2018 15:38:51 INFO task_daikai.py 290 7748 16096 customerid:9获取cookies
+Mon 29 Jan 2018 15:40:10 INFO task_daikai.py 350 7748 16096 customerid:9SFZ出错
+Mon 29 Jan 2018 15:40:10 WARNING task_daikai.py 351 7748 16096 Message: {"errorMessage":"Unable to find element with xpath '//*[@id=\"mini-20$0$6\"]'","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"108","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:38414","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"750e3af0-04c7-11e8-9d05-9b5d8c66bedd\", \"using\": \"xpath\", \"value\": \"//*[@id=\\\"mini-20$0$6\\\"]\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/750e3af0-04c7-11e8-9d05-9b5d8c66bedd/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 15:40:10 INFO task_daikai.py 352 7748 16096 SFZ查询失败
+Mon 29 Jan 2018 15:41:06 INFO task_daikai.py 60 1120 14436 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:41:06 INFO task_daikai.py 71 1120 14436 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 97 1120 14436 customerid:9，获取验证码为：[{"x":224,"y":89},{"x":169,"y":51},{"x":273,"y":44}]
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 101 1120 14436 customerid:9，验证验证码[{"x":224,"y":89},{"x":169,"y":51},{"x":273,"y":44}]
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 104 1120 14436 customerid:9，转换tag
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 106 1120 14436 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 107 1120 14436 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":224,\"y\":89},{\"x\":169,\"y\":51},{\"x\":273,\"y\":44}]",2018-01-29 15:41:07
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 112 1120 14436 customerid:9,成功post数据
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 119 1120 14436 customerid:9pass
+Mon 29 Jan 2018 15:41:07 INFO task_daikai.py 290 1120 14436 customerid:9获取cookies
+Mon 29 Jan 2018 15:47:20 INFO task_daikai.py 60 13884 13532 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:47:20 INFO task_daikai.py 71 13884 13532 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 97 13884 13532 customerid:9，获取验证码为：[{"x":270,"y":20},{"x":118,"y":46},{"x":17,"y":98}]
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 101 13884 13532 customerid:9，验证验证码[{"x":270,"y":20},{"x":118,"y":46},{"x":17,"y":98}]
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 104 13884 13532 customerid:9，转换tag
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 106 13884 13532 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 107 13884 13532 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":270,\"y\":20},{\"x\":118,\"y\":46},{\"x\":17,\"y\":98}]",2018-01-29 15:47:23
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 112 13884 13532 customerid:9,成功post数据
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 119 13884 13532 customerid:9pass
+Mon 29 Jan 2018 15:47:23 INFO task_daikai.py 296 13884 13532 customerid:9获取cookies
+Mon 29 Jan 2018 15:49:09 INFO task_daikai.py 356 13884 13532 customerid:9SFZ出错
+Mon 29 Jan 2018 15:49:10 WARNING task_daikai.py 357 13884 13532 Message: {"errorMessage":"Unable to find element with css selector '#gfkhyh'","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"98","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:40234","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"a6097c90-04c8-11e8-8c3d-598d291f62e3\", \"value\": \"#gfkhyh\", \"using\": \"css selector\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/a6097c90-04c8-11e8-8c3d-598d291f62e3/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 15:49:12 INFO task_daikai.py 358 13884 13532 SFZ查询失败
+Mon 29 Jan 2018 15:50:09 INFO task_daikai.py 60 15724 15840 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 15:50:09 INFO task_daikai.py 71 15724 15840 未传代理参数，启用本机IP
+Mon 29 Jan 2018 15:50:10 INFO task_daikai.py 97 15724 15840 customerid:9，获取验证码为：[{"x":167,"y":40},{"x":70,"y":60},{"x":218,"y":69}]
+Mon 29 Jan 2018 15:50:10 INFO task_daikai.py 101 15724 15840 customerid:9，验证验证码[{"x":167,"y":40},{"x":70,"y":60},{"x":218,"y":69}]
+Mon 29 Jan 2018 15:50:10 INFO task_daikai.py 104 15724 15840 customerid:9，转换tag
+Mon 29 Jan 2018 15:50:10 INFO task_daikai.py 106 15724 15840 customerid:9，转换tag完成
+Mon 29 Jan 2018 15:50:10 INFO task_daikai.py 107 15724 15840 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":167,\"y\":40},{\"x\":70,\"y\":60},{\"x\":218,\"y\":69}]",2018-01-29 15:50:10
+Mon 29 Jan 2018 15:50:11 INFO task_daikai.py 112 15724 15840 customerid:9,成功post数据
+Mon 29 Jan 2018 15:50:11 INFO task_daikai.py 119 15724 15840 customerid:9pass
+Mon 29 Jan 2018 15:50:11 INFO task_daikai.py 296 15724 15840 customerid:9获取cookies
+Mon 29 Jan 2018 16:06:43 INFO task_daikai.py 60 10300 9924 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:06:43 INFO task_daikai.py 71 10300 9924 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 97 10300 9924 customerid:9，获取验证码为：[{"x":223,"y":64},{"x":269,"y":66},{"x":118,"y":106}]
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 101 10300 9924 customerid:9，验证验证码[{"x":223,"y":64},{"x":269,"y":66},{"x":118,"y":106}]
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 104 10300 9924 customerid:9，转换tag
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 106 10300 9924 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 107 10300 9924 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":223,\"y\":64},{\"x\":269,\"y\":66},{\"x\":118,\"y\":106}]",2018-01-29 16:06:45
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 112 10300 9924 customerid:9,成功post数据
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 119 10300 9924 customerid:9pass
+Mon 29 Jan 2018 16:06:45 INFO task_daikai.py 293 10300 9924 customerid:9获取cookies
+Mon 29 Jan 2018 16:07:55 INFO task_daikai.py 353 10300 9924 customerid:9SFZ出错
+Mon 29 Jan 2018 16:07:55 WARNING task_daikai.py 354 10300 9924 Unable to convert value
+Mon 29 Jan 2018 16:07:55 INFO task_daikai.py 355 10300 9924 SFZ查询失败
+Mon 29 Jan 2018 16:08:04 ERROR task_daikai.py 374 10300 9924 (515, b"Cannot insert the value NULL into column 'valuetype', table '@hierarchy'; column does not allow nulls. INSERT fails.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+Mon 29 Jan 2018 16:08:33 INFO task_daikai.py 60 15804 3656 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:08:33 INFO task_daikai.py 71 15804 3656 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:08:34 INFO task_daikai.py 97 15804 3656 customerid:9，获取验证码为：None
+Mon 29 Jan 2018 16:08:34 INFO task_daikai.py 60 15804 3656 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:08:34 INFO task_daikai.py 71 15804 3656 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 97 15804 3656 customerid:9，获取验证码为：[{"x":221,"y":64},{"x":270,"y":101},{"x":167,"y":77}]
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 101 15804 3656 customerid:9，验证验证码[{"x":221,"y":64},{"x":270,"y":101},{"x":167,"y":77}]
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 104 15804 3656 customerid:9，转换tag
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 106 15804 3656 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 107 15804 3656 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":221,\"y\":64},{\"x\":270,\"y\":101},{\"x\":167,\"y\":77}]",2018-01-29 16:08:36
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 112 15804 3656 customerid:9,成功post数据
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 119 15804 3656 customerid:9pass
+Mon 29 Jan 2018 16:08:36 INFO task_daikai.py 293 15804 3656 customerid:9获取cookies
+Mon 29 Jan 2018 16:10:02 INFO task_daikai.py 353 15804 3656 customerid:9SFZ出错
+Mon 29 Jan 2018 16:10:02 WARNING task_daikai.py 354 15804 3656 Unable to convert value
+Mon 29 Jan 2018 16:10:02 INFO task_daikai.py 355 15804 3656 SFZ查询失败
+Mon 29 Jan 2018 16:10:59 INFO task_daikai.py 60 13444 8940 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:10:59 INFO task_daikai.py 71 13444 8940 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 97 13444 8940 customerid:9，获取验证码为：[{"x":67,"y":69},{"x":174,"y":57},{"x":115,"y":24}]
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 101 13444 8940 customerid:9，验证验证码[{"x":67,"y":69},{"x":174,"y":57},{"x":115,"y":24}]
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 104 13444 8940 customerid:9，转换tag
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 106 13444 8940 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 107 13444 8940 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":67,\"y\":69},{\"x\":174,\"y\":57},{\"x\":115,\"y\":24}]",2018-01-29 16:11:00
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 112 13444 8940 customerid:9,成功post数据
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 119 13444 8940 customerid:9pass
+Mon 29 Jan 2018 16:11:00 INFO task_daikai.py 293 13444 8940 customerid:9获取cookies
+Mon 29 Jan 2018 16:11:19 INFO task_daikai.py 353 13444 8940 customerid:9SFZ出错
+Mon 29 Jan 2018 16:11:19 WARNING task_daikai.py 354 13444 8940 Unable to convert value
+Mon 29 Jan 2018 16:11:57 INFO task_daikai.py 355 13444 8940 SFZ查询失败
+Mon 29 Jan 2018 16:11:58 ERROR task_daikai.py 374 13444 8940 (515, b"Cannot insert the value NULL into column 'valuetype', table '@hierarchy'; column does not allow nulls. INSERT fails.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+Mon 29 Jan 2018 16:12:56 INFO task_daikai.py 60 11696 12404 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:12:56 INFO task_daikai.py 71 11696 12404 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 97 11696 12404 customerid:9，获取验证码为：[{"x":70,"y":24},{"x":268,"y":36},{"x":220,"y":74}]
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 101 11696 12404 customerid:9，验证验证码[{"x":70,"y":24},{"x":268,"y":36},{"x":220,"y":74}]
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 104 11696 12404 customerid:9，转换tag
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 106 11696 12404 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 107 11696 12404 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":70,\"y\":24},{\"x\":268,\"y\":36},{\"x\":220,\"y\":74}]",2018-01-29 16:12:57
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 112 11696 12404 customerid:9,成功post数据
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 119 11696 12404 customerid:9pass
+Mon 29 Jan 2018 16:12:57 INFO task_daikai.py 293 11696 12404 customerid:9获取cookies
+Mon 29 Jan 2018 16:13:41 INFO task_daikai.py 353 11696 12404 customerid:9SFZ出错
+Mon 29 Jan 2018 16:13:41 WARNING task_daikai.py 354 11696 12404 Unable to convert value
+Mon 29 Jan 2018 16:13:41 INFO task_daikai.py 355 11696 12404 SFZ查询失败
+Mon 29 Jan 2018 16:14:14 INFO task_daikai.py 60 16184 14424 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:14:14 INFO task_daikai.py 71 16184 14424 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:14:15 INFO task_daikai.py 97 16184 14424 customerid:9，获取验证码为：None
+Mon 29 Jan 2018 16:14:15 INFO task_daikai.py 60 16184 14424 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:14:15 INFO task_daikai.py 71 16184 14424 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 97 16184 14424 customerid:9，获取验证码为：[{"x":172,"y":30},{"x":118,"y":48},{"x":19,"y":44}]
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 101 16184 14424 customerid:9，验证验证码[{"x":172,"y":30},{"x":118,"y":48},{"x":19,"y":44}]
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 104 16184 14424 customerid:9，转换tag
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 106 16184 14424 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 107 16184 14424 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":172,\"y\":30},{\"x\":118,\"y\":48},{\"x\":19,\"y\":44}]",2018-01-29 16:14:17
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 112 16184 14424 customerid:9,成功post数据
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 119 16184 14424 customerid:9pass
+Mon 29 Jan 2018 16:14:17 INFO task_daikai.py 294 16184 14424 customerid:9获取cookies
+Mon 29 Jan 2018 16:14:41 INFO task_daikai.py 354 16184 14424 customerid:9SFZ出错
+Mon 29 Jan 2018 16:14:41 WARNING task_daikai.py 355 16184 14424 Unable to convert value
+Mon 29 Jan 2018 16:14:41 INFO task_daikai.py 356 16184 14424 SFZ查询失败
+Mon 29 Jan 2018 16:14:53 ERROR task_daikai.py 375 16184 14424 (515, b"Cannot insert the value NULL into column 'valuetype', table '@hierarchy'; column does not allow nulls. INSERT fails.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+Mon 29 Jan 2018 16:15:04 INFO task_daikai.py 60 16040 14964 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:15:04 INFO task_daikai.py 71 16040 14964 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 97 16040 14964 customerid:9，获取验证码为：[{"x":271,"y":59},{"x":218,"y":103},{"x":171,"y":80}]
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 101 16040 14964 customerid:9，验证验证码[{"x":271,"y":59},{"x":218,"y":103},{"x":171,"y":80}]
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 104 16040 14964 customerid:9，转换tag
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 106 16040 14964 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 107 16040 14964 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":271,\"y\":59},{\"x\":218,\"y\":103},{\"x\":171,\"y\":80}]",2018-01-29 16:15:06
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 112 16040 14964 customerid:9,成功post数据
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 119 16040 14964 customerid:9pass
+Mon 29 Jan 2018 16:15:06 INFO task_daikai.py 294 16040 14964 customerid:9获取cookies
+Mon 29 Jan 2018 16:15:54 INFO task_daikai.py 60 8496 15856 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:15:54 INFO task_daikai.py 71 8496 15856 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 97 8496 15856 customerid:9，获取验证码为：[{"x":224,"y":88},{"x":21,"y":43},{"x":272,"y":100}]
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 101 8496 15856 customerid:9，验证验证码[{"x":224,"y":88},{"x":21,"y":43},{"x":272,"y":100}]
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 104 8496 15856 customerid:9，转换tag
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 106 8496 15856 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 107 8496 15856 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":224,\"y\":88},{\"x\":21,\"y\":43},{\"x\":272,\"y\":100}]",2018-01-29 16:15:55
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 112 8496 15856 customerid:9,成功post数据
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 119 8496 15856 customerid:9pass
+Mon 29 Jan 2018 16:15:55 INFO task_daikai.py 294 8496 15856 customerid:9获取cookies
+Mon 29 Jan 2018 16:16:40 INFO task_daikai.py 354 8496 15856 customerid:9SFZ出错
+Mon 29 Jan 2018 16:16:40 WARNING task_daikai.py 355 8496 15856 (229, b"The EXECUTE permission was denied on the object 'Python_Serivce_GSInvoiceDetail_Add', database 'ACT18282900', schema 'dbo'.DB-Lib error message 20018, severity 14:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+Mon 29 Jan 2018 16:16:40 INFO task_daikai.py 356 8496 15856 SFZ查询失败
+Mon 29 Jan 2018 16:17:34 INFO task_daikai.py 60 4848 12524 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:17:34 INFO task_daikai.py 71 4848 12524 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:17:35 INFO task_daikai.py 97 4848 12524 customerid:9，获取验证码为：[{"x":67,"y":56},{"x":269,"y":97},{"x":219,"y":96}]
+Mon 29 Jan 2018 16:17:36 INFO task_daikai.py 101 4848 12524 customerid:9，验证验证码[{"x":67,"y":56},{"x":269,"y":97},{"x":219,"y":96}]
+Mon 29 Jan 2018 16:17:36 INFO task_daikai.py 104 4848 12524 customerid:9，转换tag
+Mon 29 Jan 2018 16:17:36 INFO task_daikai.py 106 4848 12524 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:17:36 INFO task_daikai.py 107 4848 12524 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":67,\"y\":56},{\"x\":269,\"y\":97},{\"x\":219,\"y\":96}]",2018-01-29 16:17:36
+Mon 29 Jan 2018 16:17:36 INFO task_daikai.py 112 4848 12524 customerid:9,成功post数据
+Mon 29 Jan 2018 16:17:36 INFO task_daikai.py 119 4848 12524 customerid:9pass
+Mon 29 Jan 2018 16:17:36 INFO task_daikai.py 294 4848 12524 customerid:9获取cookies
+Mon 29 Jan 2018 16:18:31 INFO task_daikai.py 354 4848 12524 customerid:9SFZ出错
+Mon 29 Jan 2018 16:18:31 WARNING task_daikai.py 355 4848 12524 Message: {"errorMessage":"Unable to find element with xpath '//*[@id=\"mini-20$1$5\"]/a[1]'","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"113","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:46124","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"value\": \"//*[@id=\\\"mini-20$1$5\\\"]/a[1]\", \"using\": \"xpath\", \"sessionId\": \"de788540-04cc-11e8-9c26-47acaf01e1fd\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/de788540-04cc-11e8-9c26-47acaf01e1fd/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 16:18:31 INFO task_daikai.py 356 4848 12524 SFZ查询失败
+Mon 29 Jan 2018 16:19:30 INFO task_daikai.py 60 6908 3616 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:19:30 INFO task_daikai.py 71 6908 3616 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 97 6908 3616 customerid:9，获取验证码为：[{"x":68,"y":55},{"x":168,"y":63},{"x":20,"y":87}]
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 101 6908 3616 customerid:9，验证验证码[{"x":68,"y":55},{"x":168,"y":63},{"x":20,"y":87}]
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 104 6908 3616 customerid:9，转换tag
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 106 6908 3616 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 107 6908 3616 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":68,\"y\":55},{\"x\":168,\"y\":63},{\"x\":20,\"y\":87}]",2018-01-29 16:19:31
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 112 6908 3616 customerid:9,成功post数据
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 119 6908 3616 customerid:9pass
+Mon 29 Jan 2018 16:19:31 INFO task_daikai.py 295 6908 3616 customerid:9获取cookies
+Mon 29 Jan 2018 16:20:29 INFO task_daikai.py 355 6908 3616 customerid:9SFZ出错
+Mon 29 Jan 2018 16:20:29 WARNING task_daikai.py 356 6908 3616 Message: {"errorMessage":"Unable to find element with css selector '.mini-tools-close'","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"108","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:46552","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"value\": \".mini-tools-close\", \"using\": \"css selector\", \"sessionId\": \"23652c80-04cd-11e8-8f29-e1c0d419505a\"}","url":"/element","urlParsed":{"anchor":"","query":"","file":"element","directory":"/","path":"/element","relative":"/element","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/element","queryKey":{},"chunks":["element"]},"urlOriginal":"/session/23652c80-04cd-11e8-8f29-e1c0d419505a/element"}}
+Screenshot: available via screen
+
+Mon 29 Jan 2018 16:20:29 INFO task_daikai.py 357 6908 3616 SFZ查询失败
+Mon 29 Jan 2018 16:21:32 INFO task_daikai.py 60 14328 10712 customerid:9,开始尝试登陆
+Mon 29 Jan 2018 16:21:32 INFO task_daikai.py 71 14328 10712 未传代理参数，启用本机IP
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 97 14328 10712 customerid:9，获取验证码为：[{"x":270,"y":99},{"x":169,"y":33},{"x":19,"y":32}]
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 101 14328 10712 customerid:9，验证验证码[{"x":270,"y":99},{"x":169,"y":33},{"x":19,"y":32}]
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 104 14328 10712 customerid:9，转换tag
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 106 14328 10712 customerid:9，转换tag完成
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 107 14328 10712 customerid:9，9144030008389925X7,610a6e1668559c22c8690c6b123cf2de18a91d95,"[{\"x\":270,\"y\":99},{\"x\":169,\"y\":33},{\"x\":19,\"y\":32}]",2018-01-29 16:21:34
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 112 14328 10712 customerid:9,成功post数据
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 119 14328 10712 customerid:9pass
+Mon 29 Jan 2018 16:21:34 INFO task_daikai.py 296 14328 10712 customerid:9获取cookies

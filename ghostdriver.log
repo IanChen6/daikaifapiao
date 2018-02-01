@@ -1,0 +1,53 @@
+[INFO  - 2018-01-29T08:21:35.759Z] GhostDriver - Main - running on port 47009
+[INFO  - 2018-01-29T08:21:36.909Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36","webSecurityEnabled":true}
+[INFO  - 2018-01-29T08:21:36.909Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.customHeaders:  - {}
+[INFO  - 2018-01-29T08:21:36.909Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.loadImages":true,"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"}
+[INFO  - 2018-01-29T08:21:36.909Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6c72a6a0-04cd-11e8-a86c-4798fd841645
+[ERROR - 2018-01-29T08:24:16.157Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - msg: TypeError: null is not an object (evaluating 'mini.decode(data).data[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-29T08:24:16.158Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - stack:
+  success (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/views/sscx/wsxxcx/wsxxcx.js:598)
+  complete (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/js/common.js:107)
+  c (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  fireWith (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  k (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+  r (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-29T08:24:51.573Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - msg: TypeError: null is not an object (evaluating 'mini.decode(data).data[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-29T08:24:51.573Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - stack:
+  success (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/views/sscx/wsxxcx/wsxxcx.js:598)
+  complete (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/js/common.js:107)
+  c (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  fireWith (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  k (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+  r (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-29T08:24:56.289Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - msg: TypeError: null is not an object (evaluating 'mini.decode(data).data[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-29T08:24:56.289Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - stack:
+  success (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/views/sscx/wsxxcx/wsxxcx.js:598)
+  complete (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/js/common.js:107)
+  c (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  fireWith (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  k (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+  r (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-29T08:25:19.863Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - msg: TypeError: null is not an object (evaluating 'mini.decode(data).data[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-29T08:25:19.863Z] Session [6c72a6a0-04cd-11e8-a86c-4798fd841645] - page.onError - stack:
+  success (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/views/sscx/wsxxcx/wsxxcx.js:598)
+  complete (http://dzswj.szgs.gov.cn/BsfwtWeb/apps/js/common.js:107)
+  c (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  fireWith (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:4)
+  k (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+  r (http://dzswj.szgs.gov.cn/BsfwtWeb/lib/jquery/jquery.min.js:6)
+
+  phantomjs://platform/console++.js:263 in error
